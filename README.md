@@ -41,5 +41,8 @@ THEN I find a concise, descriptive title
 - Creating favicon using existing colors found in CSS file and linking to HTML file
 
 ## <b>Screenshots</b>
--
--
+After: Div class broadened
+<img src="screenshot1.png">
+After: Div class broadened on HTML and CSS condensed
+<img src="screenshot2.png">
+<img src="screenshot3.png">
